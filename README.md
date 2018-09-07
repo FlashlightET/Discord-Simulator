@@ -18,6 +18,6 @@ Copy it back from notepad and go to [remove diacritics](http://utils.paranoiawor
 
 Getting the usernames: If the server is small you can type them by hand. If it is large then you can go back to the scraping but instead of doing the body you scrape the username. Save those to a file and set the encoding to ANSI (IMPORTANT, OTHER ENCODINGS ALLOW ILLEGAL CHARACTERS).
 
-Edit the `bot.py` script. Change the text file to your message file, the un or users or usernames i dont remember file to your users file, and the big weird number with your channel's id (right click a channel and click copy id or find it in the last part of the url). Change the token to your bot's token and you're good.
+Edit the `main.py` script. Change the text file to your message file, the un or users or usernames i dont remember file to your users file, and the big weird number with your channel's id (right click a channel and click copy id or find it in the last part of the url). Change the token to your bot's token and you're good.
 
 The bot will start becoming sentient.
