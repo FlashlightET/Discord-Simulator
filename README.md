@@ -6,7 +6,7 @@ requirements: just use `install-deps.bat`, python 3.5.3 (im sure later versions 
 
 multiple bots are allowed for different channels, i have a server that simulates one of my other servers and the bot posts different things in different channels through probably 10 cmd.exe windows
 
-to acquire a Data, first you need to use the [Discord History Tracker](https://dht.chylex.com/). I recommend turning off embeds when using it. Once you have captured a good amount (1000-3000) you should see a file named `dht.txt`. Go to the viewer (located on the DHT page) and put in the file. At the top click settings and turn off both checkboxes so that it can load faster AND it will enable the bot to use *asterisk* `grave` ```triplegrave``` :emoji: etc. Click on the messages per page dropdown and click "all."
+to acquire a Data, first you need to use the [Discord History Tracker](https://dht.chylex.com/). I recommend turning off embeds when using it. Once you have captured a good amount (1000-3000) you should see a file named `dht.txt`. Go to the viewer (located on the DHT page) and put in the file. At the top click settings and turn off both checkboxes so that it can load faster AND it will enable the bot to use \* , \`, \`\`\`, :emoji: etc. Click on the messages per page dropdown and click "all."
 
 ![settings](https://cdn.discordapp.com/attachments/419149275142946829/419158271614779393/unknown.png)
 
